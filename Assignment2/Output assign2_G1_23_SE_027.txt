@@ -1,0 +1,4 @@
+Received CC Frame (len=11): HelloWorld
+Received BS Frame: HelloWorld
+Received CC Frame (len=15): Data~With~Flag
+Received BS Frame: Data~With~Flag

@@ -1,0 +1,7 @@
+Original Data: 110011010
+Generator Polynomial: 1011
+CRC Checksum: 111
+Transmitted Data: 110011010111
+
+Errored Data: 110010010111
+Error detected using CRC method.

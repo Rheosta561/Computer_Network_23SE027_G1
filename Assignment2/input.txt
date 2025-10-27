@@ -1,0 +1,6 @@
+HelloWorld
+Data~With~Flag
+Curly}BraceTest
+NormalText123
+~StartAndEnd~
+Stuffing}Needed

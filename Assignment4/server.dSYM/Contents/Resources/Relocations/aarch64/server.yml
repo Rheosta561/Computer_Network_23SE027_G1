@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anubhavmishra/Documents/Computer_Network /Assignment4/server'
+relocations:     []
+...
